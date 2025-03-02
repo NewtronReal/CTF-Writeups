@@ -6,7 +6,7 @@
 **Category:** Hardware
 
 
-![[boo.svg]]
+![Boo](boo.svg)
 ## Description
 
 Deep within the cyber-ruins of _Neo-Tokyo_, an abandoned **prototype CPU** lies dormant—its architecture lost to time, its secrets buried within the very fabric of its execution. Legend speaks of the _Chrono Engine_, an experimental processor designed by the enigmatic _Dr. Akihiko Mori_, a genius whose research vanished under mysterious circumstances.
@@ -233,10 +233,10 @@ Here’s the core issue: when the CPU encounters an expensive instruction, it **
 Hackers exploit this flaw using **side-channel timing attacks**, cleverly inferring restricted memory contents based on cache access times. This makes Spectre not just an exploit, but a class of vulnerabilities that persist across generations of hardware, requiring both software and firmware-level mitigations.
 
 Eg:
-![[Pasted image 20250302211238.png]]
-![[Pasted image 20250302211359.png]]
-![[Pasted image 20250302211158.png]]
-![[Pasted image 20250302211434.png]]
+![img1]([Pasted image 20250302211238.png])
+![img2]([Pasted image 20250302211359.png])
+![img3]([Pasted image 20250302211158.png])
+![img4]([Pasted image 20250302211434.png])
 Reference:
 1. https://www.youtube.com/watch?v=q3-xCvzBjGs
 2. https://www.youtube.com/watch?v=JSqDqNysycQ
